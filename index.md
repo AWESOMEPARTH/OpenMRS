@@ -26,7 +26,7 @@ width:1350px;
 <body>
 <center>
 <div class="container">
-  <img src="C:\Users\STUDENT\Desktop\MRS\images (1).jpg">
+  <img src="C:\Users\STUDENT\Desktop\MRS\images(1).jpg">
   <div class="centered"><font size="5">AWESOMEPARTH<br><br>Become a fully fleged member of OpenMRS.<br><br>Design a Certificate for OpenMRS Implementers Conference attendee</div>
 </div></font>
 </center>
